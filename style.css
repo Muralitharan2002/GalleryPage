@@ -19,8 +19,8 @@ body {
   justify-content: center;
 }
 .logo {
-  width: 170px;
-  height: 170px;
+  width: 190px;
+  height: 190px;
 }
 
 .title {
@@ -61,6 +61,11 @@ body {
 
 .card-text {
   font-size: 16px;
+}
+
+.footer {
+  margin: 50px 0 30px 0;
+  text-align: center;
 }
 
 @media (max-width: 500px) {
